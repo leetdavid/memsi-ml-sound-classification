@@ -1,0 +1,6 @@
+tensorflow>=2.3.0
+seaborn
+IPython
+matplotlib
+numpy
+pathlib
